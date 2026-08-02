@@ -1,0 +1,7 @@
+context/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+.gitignore

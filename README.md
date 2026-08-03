@@ -19,10 +19,11 @@
 
 ## Supported Agents
 
-Three folders pre-configured — one skill works everywhere:
+Three folders pre-configured — one skill works everywhere.
 
-| <img src="https://img.icons8.com/color/24/anthropic.png" height="16" /> Claude Code | <img src="https://img.icons8.com/color/24/visual-studio-code-2019.png" height="16" /> OpenCode | <img src="https://img.icons8.com/color/24/open-ai.png" height="16" /> Codex CLI | <img src="https://img.icons8.com/color/24/google-logo.png" height="16" /> Gemini CLI | <img src="https://img.icons8.com/color/24/cursor.png" height="16" /> Cursor |
-|:---:|:---:|:---:|:---:|:---:|
+| Claude Code | OpenCode | Codex CLI | Gemini CLI | Cursor |
+|:-----------:|:--------:|:---------:|:----------:|:------:|
+| <img src="https://img.shields.io/badge/claude-SKILL.MD-d97706?style=for-the-badge&logo=anthropic&logoColor=white" /> | <img src="https://img.shields.io/badge/opencode-SKILL.MD-6366f1?style=for-the-badge" /> | <img src="https://img.shields.io/badge/codex-SKILL.MD-111827?style=for-the-badge&logo=openai&logoColor=white" /> | <img src="https://img.shields.io/badge/gemini-SKILL.MD-4285f4?style=for-the-badge&logo=google&logoColor=white" /> | <img src="https://img.shields.io/badge/cursor-SKILL.MD-5e2bff?style=for-the-badge&logo=cursor&logoColor=white" /> |
 | `.claude/skills/` | `.opencode/skills/` | `.agents/skills/` | `.claude/skills/` | `.claude/skills/` |
 
 > **Global install (all projects):** Place in `~/.claude/skills/scale-to-millions/`
@@ -184,9 +185,3 @@ Is the problem RESILIENCE?
 ## Credits
 
 Built on the [ByteByteGo](https://bytebytego.com/) system design methodology by Alex Xu — "Scale From Zero to Millions of Users" from *System Design Interview – An Insider's Guide, Volume 1*.
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/made_with_heart_in_India-ff9933?style=for-the-badge" alt="made in India" />
-</p>
